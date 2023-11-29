@@ -17,6 +17,6 @@ django-admin startproject OCRSystem
 
 cd OCRSystem
 
-py manage.py startapp polls
+py manage.py startapp djreservation
 
 py manage.py runserver
